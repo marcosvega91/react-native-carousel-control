@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/machadogj/react-native-carousel-control/issues"
   },
-  "homepage": "https://github.com/machadogj/react-native-carousel-control#readme"
+  "homepage": "https://github.com/machadogj/react-native-carousel-control#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
